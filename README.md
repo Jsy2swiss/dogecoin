@@ -44,7 +44,7 @@ Main development resources:
 
 * [GitHub Projects](https://github.com/dogecoin/dogecoin/projects) is used to
   follow planned and in-progress work for upcoming releases.
-* [GitHub Discussions](https://github.com/dogecoin/dogecoin/discussions) is used
+* [GitHub Discussions](https://github.com/dogecoin/Discussions](https/discussions) is used
   to discuss features, planned and unplanned, related to both the development of
   the Dogecoin Core software, the underlying protocols and the DOGE asset.
 
